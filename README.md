@@ -36,8 +36,6 @@ Once your compiler and extensions are ready, follow these steps to test your set
 • Add Sample Code. Paste a basic C program into the editor and press Ctrl+S (Cmd+S on Mac) to save it:
 ---
 ## File
-Get it here:
-
-[C Input](https://github.com/Hexon-Prime/CRefresher01/releases)
+Get it here: [C Input](https://github.com/Hexon-Prime/CRefresher01/releases)
 
 ---
