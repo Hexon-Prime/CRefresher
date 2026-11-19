@@ -12,7 +12,6 @@ GCash: 09157438761 / +639157438761
 
 My purpose of uploading my codes is to save it in cloud and to save storage.
 
----
 To write and run C code in Visual Studio Code, you must install Microsoft's C/C++ extension along with an external C compiler. The extension provides syntax highlighting, IntelliSense, and debugging, while the compiler translates your code into an executable program.
 
 **1. Install a C Compiler**
@@ -37,9 +36,6 @@ Once your compiler and extensions are ready, follow these steps to test your set
 > Create a C File. Click the New File icon in the Explorer sidebar and name it hello.c. Make sure the file ends with the .c extension.
 > Add Sample Code. Paste a basic C program into the editor and press Ctrl+S (Cmd+S on Mac) to save it:
 
----
 ## File
-
 Get it here: 
 [C Input](https://github.com/Hexon-Prime/CRefresher01/releases)
----
