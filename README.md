@@ -1,4 +1,4 @@
-# CRefresher01
+# C Refresher Files
 
 This contains my Refresher projects for C. It includes simple printing display to creating projects.
 
