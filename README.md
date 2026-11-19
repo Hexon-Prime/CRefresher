@@ -34,9 +34,9 @@ Next, add C language support inside VS Code:
 **3. Write and Run Your C Program**
 
 Once your compiler and extensions are ready, follow these steps to test your setup:
-> Create a Workspace Folder. Open a dedicated folder in VS Code via File > Open Folder.
-> Create a C File. Click the New File icon in the Explorer sidebar and name it hello.c. Make sure the file ends with the .c extension.
-> Add Sample Code. Paste a basic C program into the editor and press Ctrl+S (Cmd+S on Mac) to save it:
+* Create a Workspace Folder. Open a dedicated folder in VS Code via File > Open Folder.
+* Create a C File. Click the New File icon in the Explorer sidebar and name it hello.c. Make sure the file ends with the .c extension.
+* Add Sample Code. Paste a basic C program into the editor and press Ctrl+S (Cmd+S on Mac) to save it:
 
 ## File
 Get it here: 
