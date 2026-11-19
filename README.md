@@ -1,4 +1,5 @@
 # CRefresher01
+
 This contains my Refresher projects for C. It includes simple printing display to creating projects.
 
 Feel free to download. Its free for you to see.
@@ -6,6 +7,7 @@ Feel free to download. Its free for you to see.
 I don't collect any payment even if some of my project was made by good effort and time. But I do love me a donation.
 
 Paypal: henryartigo.cadalinyt@gmail.com
+
 GCash: 09157438761 / +639157438761
 
 My purpose of uploading my codes is to save it in cloud and to save storage.
@@ -36,6 +38,7 @@ Once your compiler and extensions are ready, follow these steps to test your set
 > Add Sample Code. Paste a basic C program into the editor and press Ctrl+S (Cmd+S on Mac) to save it:
 
 ---
-## File
-Get it here: [C Input](https://github.com/Hexon-Prime/CRefresher01/releases)
+## File ##
+Get it here: 
+[C Input](https://github.com/Hexon-Prime/CRefresher01/releases)
 ---
